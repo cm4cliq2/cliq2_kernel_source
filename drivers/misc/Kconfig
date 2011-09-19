@@ -420,5 +420,9 @@ source "drivers/misc/sec/Kconfig"
 source "drivers/misc/netmux/Kconfig"
 source "drivers/misc/netmux_linkdriver/Kconfig"
 source "drivers/misc/camera_misc/Kconfig"
+source "drivers/misc/symsearch/Kconfig"
+source "drivers/misc/overclock/Kconfig"
+source "drivers/misc/mmcfix/Kconfig"
+source "drivers/misc/usbled/Kconfig"
 
 endif # MISC_DEVICES
