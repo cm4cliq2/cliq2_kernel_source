@@ -56,3 +56,4 @@ obj-m += symsearch/
 obj-m += overclock/
 obj-m += mmcfix/
 obj-m += usbled/
+obj-m += multitouch/
